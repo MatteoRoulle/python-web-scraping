@@ -1,0 +1,13 @@
+ANALYSE DES DONNEES TERMINEE
+----------------------------
+
+Nombre de pages : 5
+Noms des pages : ['bois-de-vigne.csv', 'luminaire-a-piles.csv', 'platre.csv', 'table-basse.csv', 'tous-les-produits.csv']
+
+Lignes par fichier : [{'bois-de-vigne.csv': 22}, {'luminaire-a-piles.csv': 24}, {'platre.csv': 11}, {'table-basse.csv': 2}, {'tous-les-produits.csv': 67}]
+Lignes totales : 126
+
+Nombre de produits uniques en stock : 42
+Produits en stock : 37
+Moyenne de prix par page : {'Bois de vigne': 46, 'Luminaire à piles': 35, 'Plâtre': 15, 'Table basse': 165, 'Tous les produits': 46}
+Moyenne totale (sans doublons, en stock) : 44 €

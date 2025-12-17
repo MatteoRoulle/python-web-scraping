@@ -1,0 +1,45 @@
+RÉSULTAT DU NETTOYAGE DE raw_bois-de-vigne.csv LE 17/12/2025 17:38:11
+----------------------------------
+
+Lignes totales initiales : 22
+Lignes conservées        : 22
+Lignes ignorées          : 0
+
+Nettoyage terminé avec succès.
+
+RÉSULTAT DU NETTOYAGE DE raw_luminaire-a-piles.csv LE 17/12/2025 17:38:11
+----------------------------------
+
+Lignes totales initiales : 24
+Lignes conservées        : 24
+Lignes ignorées          : 0
+
+Nettoyage terminé avec succès.
+
+RÉSULTAT DU NETTOYAGE DE raw_platre.csv LE 17/12/2025 17:38:11
+----------------------------------
+
+Lignes totales initiales : 11
+Lignes conservées        : 11
+Lignes ignorées          : 0
+
+Nettoyage terminé avec succès.
+
+RÉSULTAT DU NETTOYAGE DE raw_table-basse.csv LE 17/12/2025 17:38:11
+----------------------------------
+
+Lignes totales initiales : 2
+Lignes conservées        : 2
+Lignes ignorées          : 0
+
+Nettoyage terminé avec succès.
+
+RÉSULTAT DU NETTOYAGE DE raw_tous-les-produits.csv LE 17/12/2025 17:38:12
+----------------------------------
+
+Lignes totales initiales : 67
+Lignes conservées        : 67
+Lignes ignorées          : 0
+
+Nettoyage terminé avec succès.
+
